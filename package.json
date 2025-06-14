@@ -15,7 +15,7 @@
         "jstransformer-markdown-it": "^3.0.0",
         "lodash.debounce": "^4.0.8",
         "negotiator": "^1.0.0",
-        "pug": "^3.0.1",
+        "pug": "^3.0.3",
         "querystring": "^0.2.0"
     },
     "devDependencies": {
